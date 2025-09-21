@@ -1,0 +1,7 @@
+{
+  "name": "Dem OS",
+  "description": "A web-based desktop environment that emulates the look and feel of a modern operating system, complete with a variety of applications and system controls. Requires camera access for the Camera app.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
